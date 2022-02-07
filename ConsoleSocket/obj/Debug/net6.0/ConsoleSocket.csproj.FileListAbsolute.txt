@@ -1,0 +1,15 @@
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ConsoleSocket.exe
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ConsoleSocket.deps.json
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ConsoleSocket.runtimeconfig.json
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ConsoleSocket.dll
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ref\ConsoleSocket.dll
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\bin\Debug\net6.0\ConsoleSocket.pdb
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.csproj.AssemblyReference.cache
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.GeneratedMSBuildEditorConfig.editorconfig
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.AssemblyInfoInputs.cache
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.AssemblyInfo.cs
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.csproj.CoreCompileInputs.cache
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.dll
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ref\ConsoleSocket.dll
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.pdb
+G:\Source\ConsoleSocket\ConsoleSocket\ConsoleSocket\obj\Debug\net6.0\ConsoleSocket.genruntimeconfig.cache
